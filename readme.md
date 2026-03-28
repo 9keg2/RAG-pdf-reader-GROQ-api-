@@ -90,7 +90,7 @@ Final Answer
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/RAG-pdf-reader-GROQ-api-.git
+git clone https://github.com/9keg2/RAG-pdf-reader-GROQ-api-.git
 cd RAG-pdf-reader-GROQ-api-
 ```
 
